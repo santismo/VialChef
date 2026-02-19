@@ -7,5 +7,5 @@
 - Preset mutation, with simple to complex settings.
 - Preset combine, with mix amount settings.
 
-# How to: 
+# How to set up: 
 - Download the component.zip and unzip it, copy to to your plugin components folder. (currently only tested on Mac)
