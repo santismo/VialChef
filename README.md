@@ -1,4 +1,4 @@
-## VialChef
+## VialChef 🎲
 
 <img width="1512" height="960" alt="Screenshot 2026-02-18 at 8 33 09 PM" src="https://github.com/user-attachments/assets/08eca3b7-72c2-4a2d-bcab-fbe01119df2b" />
 
