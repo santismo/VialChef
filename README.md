@@ -8,8 +8,8 @@
 - Preset combination, with mix amount settings.
 
 # How to set up: 
-- Download the component.zip and unzip it, move VialChef.component to your plugin components folder. (currently only tested on Mac)
-- Or, desktop app available, download "VialChef_macOS.zip", unzip it, store wherever you like, probably in your applications folder.
+- Download the component.zip or vst3.zip and unzip it, move the unzipped VialChef.component or VialChef.vst3 to your plugin components or vst3 folder.
+- Or, MacOS app available, download "VialChef_macOS.zip", unzip it, store wherever you like, probably in your applications folder.
 
 # Disclaimer 
-This is vibecoded, sorry! But enjoy if you like. 
+This is vibecoded, sorry, but enjoy if you like!
