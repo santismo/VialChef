@@ -9,3 +9,7 @@
 
 # How to set up: 
 - Download the component.zip and unzip it, move VialChef.component to your plugin components folder. (currently only tested on Mac)
+- Or, desktop app available, download "VialChef_macOS.zip", unzip it, store wherever you like, probably in your applications folder.
+
+# Disclaimer 
+This is vibecoded, sorry! But enjoy if you like. 
