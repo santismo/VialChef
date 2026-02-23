@@ -7,6 +7,10 @@
 - Preset mutation, with simple to complex settings.
 - Preset combination, with mix amount settings.
 
+- New: Mini-menu avilable when right clicking top dice button or smaller open menu button. 
+<img width="429" height="352" alt="Screenshot 2026-02-22 at 9 58 06 PM" src="https://github.com/user-attachments/assets/ca3b9e09-c27a-494e-88ff-37f89bbf0215" />
+
+
 # How to set up: 
 - Download the component.zip or vst3.zip and unzip it, move the unzipped VialChef.component or VialChef.vst3 to your plugin components or vst3 folder.
 - Or, MacOS app available, download "VialChef_macOS.zip", unzip it, store wherever you like, probably in your applications folder.
